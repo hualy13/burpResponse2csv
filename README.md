@@ -1,1 +1,3 @@
 # burpResponse2csv
+
+将response.txt替换成自己在burp生成的响应，然后运行python脚本即可，注意两个文件要放在同一目录下
